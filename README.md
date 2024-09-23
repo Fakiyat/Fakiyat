@@ -1,7 +1,18 @@
 
-# 💫  Hi I am Fakiyat afaq:
-- A passionate Software Engineer<br>.
--🔭 I’m currently working with ReactJs, ExpressJs, PostgreSQL and NodeJs.<br>- 🚀 I’m currently looking for a Job with a role of Frontend Developer.<br>- 👯 I’m currently collaborating with people to buid amazing products.<br>- 🌱 I’m also learning MERN Stack & building Projects in public.<br>
+# 👋 Hi, I'm Fakiyat!
+
+🌟 Frontend Developer | 💻 AI Enthusiast
+
+I specialize in building responsive, user-friendly web applications with modern technologies like React, JavaScript, HTML, and CSS. I’m passionate about designing smooth and intuitive user interfaces that deliver a great experience.
+
+🔧 Tech Stack:
+<br> *Frontend: React, Redux, JavaScript, HTML5, CSS3, SASS, TailwindCSS<br>
+<br> *Backend (Basics): Node.js, Express<br>
+<br> *AI/ML: Python, TensorFlow, Data Analysis<br>
+<br>🚀 I’m constantly learning and experimenting with AI technologies and how they integrate with web platforms. I believe the future lies at the intersection of intelligent systems and human-centered design.
+
+🌐 Let’s Connect!
+Feel free to explore my projects or contribute ideas. Always open to learning and collaboration!
 
 
 ## 🌐 Connect with Me:
